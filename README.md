@@ -1,7 +1,3 @@
-# tic-tac-bun
-
-<br>
-
 <samp>
 
 ## Description
