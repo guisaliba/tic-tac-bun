@@ -2,8 +2,7 @@
 
 ## Description
 
-Source code for a tic-tac-toe game made following the tutorial at React docs, using Bun for package management. It currently has the basic implementations of the game, but I intend to add more features as suggested in the tutorial.
-A lot of personal notes were made in the code as comments, feel free to read and learn from them.
+Source code for a tic-tac-toe game made following the tutorial at React docs, using Bun for package management. It currently has the basic implementations of the game, but I intend to add more features as suggested in the tutorial. A lot of personal notes were made in the code as comments, feel free to read and learn from them.
 
 ## Technologies
 
@@ -12,10 +11,11 @@ This project was built using:
 - React
 - Bun
 - Vite
+- Vercel
 
 ## Live Demo
 
-You can check the live demo [here](https://tic-tac-bun.vercel.app/). Thanks!
+You can check the live demo of this project [here](https://tic-tac-bun.vercel.app/). Thanks!
 
 ## Installation
 
