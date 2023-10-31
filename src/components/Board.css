@@ -1,0 +1,26 @@
+.board-row {
+  display: flex;
+}
+
+.board-row > * {
+  flex: 1;
+  margin: 5px;
+  height: 100px;
+  font-size: 50px;
+  background-color: #eee;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.board-row > *:hover {
+  cursor: pointer;
+  background-color: #ddd;
+}
+
+.status {
+  font-family: 'Sora', sans-serif;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}

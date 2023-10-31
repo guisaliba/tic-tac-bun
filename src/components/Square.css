@@ -1,0 +1,16 @@
+.square {
+  width: 100px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  color: #0a0908;
+  border: 2px solid #999;
+  cursor: pointer;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.square:hover {
+  background-color: #ddd;
+}

@@ -1,0 +1,25 @@
+.game {
+  display: flex;
+  justify-content: center;
+}
+
+.game-info {
+  padding: 2rem;
+}
+
+.game-moves {
+  margin-bottom: 0.5rem;
+}
+
+.move {
+  font-family: 'Sora', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  background-color: #242424;
+  border: none;
+}
+
+.move:hover {
+  text-decoration: underline 0.15rem #ddd;
+  cursor: pointer;
+}
