@@ -29,5 +29,5 @@ To install this project, clone the repository using the following command:
 git clone https://github.com/guisaliba/tic-tac-bun.git
 ```
 
-Make sure to be at project's root folder then run `bun run dev` in the command line.
+Then you can run `bun run dev` in the command line to build the project locally.
 </samp>
